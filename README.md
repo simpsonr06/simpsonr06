@@ -52,5 +52,5 @@ Improve relentlessly.
 
 ## Contact
 
-Email: yourmail@gmail.com  
-LinkedIn: your-linkedin-url
+Email: simpsonranga06@gmail.com  
+LinkedIn: https://www.linkedin.com/in/simpson-r-6ba583252/
