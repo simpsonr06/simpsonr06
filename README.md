@@ -1,4 +1,4 @@
-#Simpson R
+# Simpson R
 
 Cyber Security Engineer in Progress  
 AI-Driven Security Systems | Defensive Architecture | Secure Design
