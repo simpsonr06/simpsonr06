@@ -1,16 +1,56 @@
-## Hi there 👋
+#Simpson R
 
-<!--
-**simpsonr06/simpsonr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Security Engineer in Progress  
+AI-Driven Security Systems | Defensive Architecture | Secure Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Building AI-powered security systems
+- Intrusion Detection & Prevention Architectures
+- Phishing Detection & URL Risk Analysis
+- Secure Network Design
+- Red Team / Blue Team Foundations
+
+---
+
+## Current Projects
+
+- **GhostWall**  
+  AI-Powered Stealth Intrusion Detection & Prevention System
+
+- **URL Risk Analyzer**  
+  Lightweight Phishing Detection & Fake Website Analysis System
+
+---
+
+## Technical Stack
+
+Languages:
+- Python
+- Java
+- C
+
+Core Areas:
+- Network Security
+- Threat Detection
+- Linux Systems
+- Git & Version Control
+- Secure Architecture Design
+
+---
+
+## Philosophy
+
+Build quietly.  
+Think structurally.  
+Design for resilience.  
+Improve relentlessly.
+
+---
+
+## Contact
+
+Email: yourmail@gmail.com  
+LinkedIn: your-linkedin-url
